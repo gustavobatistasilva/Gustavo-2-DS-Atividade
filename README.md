@@ -27,6 +27,6 @@ O objetivo do projeto é demonstrar como estruturar uma boa documentação inici
 O projeto pode ser acessado no meu repositório do GitHub: `atividade-2ds-backend`.
 
 ## 👨‍💻 Autor
-Nome: [Gustavo Batista da Silva]
+Nome: [ Gustavo Batista da Silva ]
 
 GitHub: [https://github.com/gustavobatistasilva]
