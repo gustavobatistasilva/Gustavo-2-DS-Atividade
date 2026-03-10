@@ -8,8 +8,8 @@ O objetivo do projeto é demonstrar como estruturar uma boa documentação inici
 **Público-alvo:** Este projeto foi criado para estudantes e desenvolvedores que desejam aprender a documentar seus sistemas adequadamente. *(Desafio concluído!)*
 
 ## 🚧 Status do Projeto
-(X) Em desenvolvimento  
-( ) Finalizado  
+( ) Em desenvolvimento  
+(X) Finalizado  
 
 ## 🔨 Funcionalidades
 - Apresentar as informações principais de um repositório.
